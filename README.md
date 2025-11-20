@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm t0ugh-sys
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Choice+is+greater+than+effort.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=t0ugh-sys&label=Profile%20Views&color=6366f1&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/t0ugh-sys?label=Followers&style=flat-square&color=6366f1)
