@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Choice+is+greater+than+effort.)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=t0ugh-sys&label=Profile%20Views&color=6366f1&style=flat-square)
-![Followers](https://img.shields.io/github/followers/t0ugh-sys?label=Followers&style=flat-square&color=6366f1)
-![Stars](https://img.shields.io/github/stars/t0ugh-sys?label=Stars&style=flat-square&color=6366f1)
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=glenn-jocher&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 
 </div>
 
