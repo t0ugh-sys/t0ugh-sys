@@ -1,13 +1,3 @@
-<div align="center">
-
-
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=t0ugh_sys&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=t0ugh_sys&hide_border=true" />
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
