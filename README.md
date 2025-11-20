@@ -16,7 +16,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Activity Graph:
 
 <div align="center">
   
@@ -28,6 +28,7 @@
 
 <div align="center">
   
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=Visual+Artificial+Intelligence.)](https://git.io/typing-svg)
   **⭐️ From [t0ugh-sys](https://github.com/t0ugh-sys)**
   
 </div>
