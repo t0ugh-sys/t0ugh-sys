@@ -2,15 +2,9 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t0ugh-sys&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0ugh-sys&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=6366f1"/>
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=glenn-jocher&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=glenn-jocher&hide_border=true" /><a href="https://ultralytics.com/"><img width="1024" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png"></a>
 
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t0ugh-sys&theme=default&hide_border=true&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
 
 </div>
 
