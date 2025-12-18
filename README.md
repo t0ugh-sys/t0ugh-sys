@@ -1,26 +1,58 @@
-## 📊 GitHub Analytics
+# Hi there 👋, I'm t0ugh-sys
+
+**Visual AI Engineer | RAG & Computer Vision Specialist**
+
+专注视觉人工智能与大模型检索增强生成（RAG）系统的研发与落地  
+将深度学习技术应用于真实场景：异常行为检测、智能检索、多模态理解
+
+### 🔧 Tech Stack
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-Advanced-00FFFF?logo=ultralytics&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue3-Intermediate-4FC08D?logo=vue.js&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-Vector_DB-000000?logo=milvus&logoColor=white)
+
+### 🚀 Featured Projects
+
+- **[DeepRAG](https://github.com/t0ugh-sys/DeepRAG)**  
+  全栈 RAG 系统（FastAPI + Vue3），支持 Milvus/FAISS 向量存储、BM25 混合检索、重排序、多租户隔离。
+
+- **[behavior-vision-ai](https://github.com/t0ugh-sys/behavior-vision-ai)**  
+  基于 YOLOv8 的异常人体行为检测系统，实现实时安全监控与行为识别。
+
+更多项目正在开发中，欢迎 star 和关注更新 ✨
+
+### 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=t0ugh-sys&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=t0ugh-sys&hide_border=true" />
+
+  <!-- 主统计卡 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=t0ugh-sys&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=t0ugh-sys&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" />
+  </picture>
+
+  <!-- 语言统计卡 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=t0ugh-sys&layout=compact&hide_border=true&theme=dark" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0ugh-sys&layout=compact&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e" />
+  </picture>
 
 </div>
 
----
-
-## 📈 GitHub Activity Graph:
+### 📈 Contribution Snake
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/t0ugh-sys/t0ugh-sys/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/t0ugh-sys/t0ugh-sys/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/t0ugh-sys">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Building+the+future+of+Visual+AI+%2B+RAG;Turning+vision+into+intelligence" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=Visual+Artificial+Intelligence.)](https://git.io/typing-svg)
-  
+  <img src="https://komarev.com/ghpvc/?username=t0ugh-sys&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
