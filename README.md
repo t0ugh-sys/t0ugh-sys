@@ -8,7 +8,7 @@
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-Advanced-00FFFF?logo=ultralytics&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-Advanced-00FFFF?logo=ultralytics&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?logo=fastapi&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue3-Intermediate-4FC08D?logo=vue.js&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-Vector_DB-000000?logo=milvus&logoColor=white)
