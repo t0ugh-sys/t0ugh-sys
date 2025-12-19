@@ -30,7 +30,7 @@
   <!-- 主统计卡 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=t0ugh-sys&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=t0ugh-sys&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=t0ugh-sys&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
   </picture>
 
   <!-- 语言统计卡 -->
