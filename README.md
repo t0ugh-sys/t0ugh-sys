@@ -1,4 +1,4 @@
-# Hi there 👋, I'm t0ugh-sys
+# Hi there 👋, I'm t0ugh
 
 **Visual AI Engineer | RAG & Computer Vision Specialist**
 
