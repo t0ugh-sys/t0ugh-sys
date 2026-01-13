@@ -13,16 +13,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue3-Intermediate-4FC08D?logo=vue.js&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-Vector_DB-000000?logo=milvus&logoColor=white)
 
-### 🚀 Featured Projects
-
-- **[DeepRAG](https://github.com/t0ugh-sys/DeepRAG)**  
-  全栈 RAG 系统（FastAPI + Vue3），支持 Milvus/FAISS 向量存储、BM25 混合检索、重排序、多租户隔离。
-
-- **[behavior-vision-ai](https://github.com/t0ugh-sys/behavior-vision-ai)**  
-  基于 YOLOv8 的异常人体行为检测系统，实现实时安全监控与行为识别。
-
-更多项目正在开发中，欢迎 star 和关注更新 ✨
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -56,3 +46,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=t0ugh-sys&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+
+### 🚀 Featured Projects
+
+- **[DeepRAG](https://github.com/t0ugh-sys/DeepRAG)**  
+  全栈 RAG 系统（FastAPI + Vue3），支持 Milvus/FAISS 向量存储、BM25 混合检索、重排序、多租户隔离。
+
+- **[behavior-vision-ai](https://github.com/t0ugh-sys/behavior-vision-ai)**  
+  基于 YOLOv8 的异常人体行为检测系统，实现实时安全监控与行为识别。
+
+更多项目正在开发中，欢迎 star 和关注更新 ✨
