@@ -2,9 +2,6 @@
 
 **Visual AI Engineer | RAG & Computer Vision Specialist**
 
-专注视觉人工智能与大模型检索增强生成（RAG）系统的研发与落地  
-将深度学习技术应用于真实场景：异常行为检测、智能检索、多模态理解
-
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?logo=pytorch&logoColor=white)
