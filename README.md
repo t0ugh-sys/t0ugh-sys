@@ -1,6 +1,6 @@
 # Hi there 👋, I'm t0ugh
 
-**Visual AI Engineer | RAG & Computer Vision Specialist**
+**Computer Vision Engineer**
 
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
