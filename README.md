@@ -8,6 +8,7 @@ Tech:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Vue%203](https://img.shields.io/badge/Vue%203-4FC08D?logo=vue.js&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?logo=milvus&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
 Featured:
 - [DeepRAG](https://github.com/t0ugh-sys/DeepRAG) — Full-stack RAG (FastAPI + Vue 3) with Milvus/FAISS, hybrid retrieval (BM25 + vectors), re-ranking, and multi-tenant isolation.
