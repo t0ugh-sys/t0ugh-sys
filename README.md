@@ -4,7 +4,7 @@
 
 视觉算法工程师 | Computer Vision Engineer
 
-Detection · Segmentation · Tracking · OCR · Deployment
+专注目标检测、图像分割、多目标跟踪、OCR 与模型部署
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -12,16 +12,19 @@ Detection · Segmentation · Tracking · OCR · Deployment
 ![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RKNN](https://img.shields.io/badge/RKNN-Rockchip%20Deployment-6C47FF?style=for-the-badge)
 
 </div>
 
 Focus:
 - 视觉算法研发与工程落地（Detection, Segmentation, Tracking, OCR）
-- 模型训练、推理优化与部署（PyTorch, YOLO, ONNX, TensorRT）
+- 模型训练、推理优化与部署（PyTorch, YOLO, ONNX, TensorRT, RKNN）
 - 视觉应用服务化与多模态检索（FastAPI, Milvus, LangChain）
 
-Featured:
-- [DeepRAG](https://github.com/t0ugh-sys/DeepRAG) — Full-stack RAG system with FastAPI + Vue 3, hybrid retrieval, re-ranking, and multi-tenant isolation.
+Featured Projects:
+- [video-pipeline-cpp](https://github.com/t0ugh-sys/video-pipeline-cpp) — 面向 Rockchip RK3588/RK3568 与 NVIDIA GPU 的高性能视频推理管线，覆盖硬解码、预处理、YOLO 后处理，以及 RKNN / TensorRT 部署。
+- [camera-calibration-lab](https://github.com/t0ugh-sys/camera-calibration-lab) — 相机标定工具链，支持单目标定、双目标定、角点可视化与去畸变结果验证。
+- [DeepRAG](https://github.com/t0ugh-sys/DeepRAG) — 企业级 RAG 知识库系统，支持混合检索、重排、多租户隔离与服务化部署。
 
 <div align="center">
   <picture>
