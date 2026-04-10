@@ -4,7 +4,7 @@
 
 视觉算法工程师 | Computer Vision Engineer
 
-专注目标检测、图像分割、多目标跟踪、OCR 与模型部署
+专注目标检测、分割、跟踪、OCR 与边缘部署
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -12,7 +12,7 @@
 ![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![RKNN](https://img.shields.io/badge/RKNN-Rockchip%20Deployment-6C47FF?style=for-the-badge)
+![RKNN](https://img.shields.io/badge/RKNN-6C47FF?style=for-the-badge)
 
 </div>
 
