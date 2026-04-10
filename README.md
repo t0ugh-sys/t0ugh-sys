@@ -24,7 +24,7 @@ Focus:
 - 视觉应用服务化与多模态检索（FastAPI, Milvus, LangChain）
 
 Featured Projects:
-- [video-pipeline-cpp](https://github.com/t0ugh-sys/video-pipeline-cpp) — 面向 Rockchip RK3588/RK3568 与 NVIDIA GPU 的高性能视频推理管线，覆盖硬解码、预处理、YOLO 后处理，以及 RKNN / TensorRT 部署。
+- [video-pipeline-cpp](https://github.com/t0ugh-sys/vision-pipeline-cpp) — 面向 Rockchip RK3588/RK3568 与 NVIDIA GPU 的高性能视频推理管线，覆盖硬解码、预处理、YOLO 后处理，以及 RKNN / TensorRT 部署。
 - [camera-calibration-lab](https://github.com/t0ugh-sys/camera-calibration-lab) — 相机标定工具链，支持单目标定、双目标定、角点可视化与去畸变结果验证。
 - [DeepRAG](https://github.com/t0ugh-sys/DeepRAG) — 企业级 RAG 知识库系统，支持混合检索、重排、多租户隔离与服务化部署。
 
