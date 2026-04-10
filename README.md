@@ -2,7 +2,7 @@
 
 # t0ugh
 
-Computer Vision Engineer · Visual AI · RAG
+视觉算法工程师 | Computer Vision | Detection · Segmentation · Tracking · Deployment
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -15,8 +15,9 @@ Computer Vision Engineer · Visual AI · RAG
 </div>
 
 Focus:
-- Vision models & deployment (YOLO, PyTorch)
-- RAG systems (FastAPI, Milvus, LangChain)
+- 视觉算法研发与工程落地（Detection, Segmentation, Tracking, OCR）
+- 模型训练、推理优化与部署（PyTorch, YOLO, ONNX, FastAPI）
+- 多模态检索与 RAG 系统（Milvus, LangChain, Vue 3）
 
 Featured:
 - [DeepRAG](https://github.com/t0ugh-sys/DeepRAG) — Full-stack RAG (FastAPI + Vue 3) with Milvus/FAISS, hybrid retrieval (BM25 + vectors), re-ranking, and multi-tenant isolation.
