@@ -25,6 +25,7 @@ Focus:
 
 Featured Projects:
 - [vision-inference-pipeline](https://github.com/t0ugh-sys/vision-inference-pipeline) — 面向 Rockchip RK3588/RK3568 与 NVIDIA GPU 的视频推理部署骨架，覆盖硬解码、预处理、后端适配与 RKNN / TensorRT 部署。
+- [vision-inference-benchmark](https://github.com/t0ugh-sys/vision-inference-benchmark) — 面向视觉推理部署的 benchmark 工程，支持基准测试、结果汇总与跨后端对比分析。
 - [camera-calibration-lab](https://github.com/t0ugh-sys/camera-calibration-lab) — 相机标定工具链，支持单目标定、双目标定、角点可视化与去畸变结果验证。
 - [DeepRAG](https://github.com/t0ugh-sys/DeepRAG) — 企业级 RAG 知识库系统，支持混合检索、重排、多租户隔离与服务化部署。
 
